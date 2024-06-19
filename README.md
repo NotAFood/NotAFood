@@ -1,5 +1,4 @@
-### Hello World!
-My personal website is [ocf.berkeley.edu/~cael](https://ocf.berkeley.edu/~cael)
+# Hello World!
 
 <!--
 **NotAFood/NotAFood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
